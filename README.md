@@ -1,4 +1,4 @@
-# Country selector demo
+# React country selector demo
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
